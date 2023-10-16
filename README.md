@@ -1,2 +1,2 @@
 # ChatJs
-Lai palaistu projektu konsolē, ievadiet komandu npm start.
+Lai sāktu projektu, komandrindā ierakstiet npm start.
